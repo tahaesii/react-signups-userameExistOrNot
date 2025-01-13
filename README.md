@@ -1,4 +1,4 @@
-# Signup Component with Debounced Username Validation
+#Signup Component with Debounced Username Validation
 
 This repository contains a React implementation of a sign-up form that features debounced username validation. The form ensures that usernames are checked against a predefined list to verify availability, providing a seamless and responsive user experience.
 
